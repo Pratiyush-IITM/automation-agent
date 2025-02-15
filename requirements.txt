@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+numpy
+opencv-python
+pytesseract
+sentence-transformers
+torch
+transformers
+tqdm
+openai
+# sqlite3
